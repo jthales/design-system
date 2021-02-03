@@ -1,0 +1,6 @@
+/**
+ * Angular Material styles
+ */
+
+ @import '~@angular/material/theming';
+ @include mat-core();
